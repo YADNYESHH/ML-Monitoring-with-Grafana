@@ -1,6 +1,5 @@
 # ML Monitor
-This codebase builds on the original ML_monitor as presented in https://github.com/wiatrak2/ml_monitor
-This repository work on local installation of Python only and DOES NOT Support Colab at the moment.
+
 ### Requirements:
 * python >= 3.6
 * [docker](https://www.docker.com)
@@ -21,7 +20,7 @@ sudo apt install docker-compose
 ```
 This process will set up the docker image that houses the Grafana Dashboad!
 
-## Processing (shown in the video)
+## Processing 
 
 1. Enable docker using the command
 ```bash
