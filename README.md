@@ -6,7 +6,7 @@
 ## Installation
 1. Clone and enter the repository
 ```bash
-git clone https://github.com/sohiniroych/ML-Monitoring-with-Grafana.git
+git clone https://github.com/YADNYESHH/ML-Monitoring-with-Grafana.git
 cd ML-Monitoring-with-Grafana
 ```
 2. Install package using `pip`
