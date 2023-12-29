@@ -44,4 +44,3 @@ Run this file. The first part will train the model and in the end random test sa
 
 4. Open the Grafana dashboard at http://localhost:3000 and monitor the "n_rmse" metric.
 
-# Congratulations, now you know how to monitor metrics at production time!
